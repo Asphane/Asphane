@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Asphane
 - Basically I am a newbie in this coding world
 - 👀 I’m interested in competitive coding,web development
-- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on making projects
 - 📫 You can reach me through my mail: bisakhpatra1411@gmail.com
 
